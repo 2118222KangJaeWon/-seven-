@@ -6,4 +6,4 @@ for row in matrix:
         if num % 2==0:
             results.append(num)
 
-            print("짝수",results)
+print("짝수",results)
